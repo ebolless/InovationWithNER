@@ -1,0 +1,388 @@
+3D Gestures Classification
+3D Single-Object Recognition
+Activity Monitoring
+Activity Recognition
+Affect Recognition
+Air Quality Prediction
+Aircraft Recognition
+Algo-Trading
+Algorithmic Trading
+Alloantigen Recognition
+Analytical Chemistry
+Anomaly Detection
+Answer Scoring
+Articulatory Speech Recognition
+Audio Signal Processing
+Audio Watermark
+Audio-Visual Speech Recognition
+Author Disambiguation
+Author Identification
+Automated Essay Scoring
+Automated Handwritten Character Recognition
+Automated Journalism
+Automated Online Assistants
+Automatic Content Recognition
+Automatic Image Annotation
+Automatic Modulation Recognition
+Automatic Number Plate Detection
+Automatic Number Plate Recognition
+Automatic Target Recognition
+Automatic Taxonomy Construction
+Automatic Taxonomy Learning
+Automatic Translation
+Autonomous Object Detection
+Autonomous Object Recognition
+Bank Cheque Processing
+Beat Detection
+Bilingual Word Recognition
+Biochemical Detection
+Biometric Identifications
+Bird Identification
+Blob Detection
+Book Recommendation
+Brand Recognition
+Cancer Screening
+Cervical Cancer Screening
+Change Detection
+Charset Detection
+Chemical Analysis
+Chessboard Detection
+Churn Prediction
+Claim Prediction
+Classify Customer Potential
+Click Prediction
+Click-Through Rate Prediction
+Clone Detection
+Collaborative Filtering
+Collision Detection
+Community Detection
+Community Recognition
+Computer-Aided Detection
+Computer-Aided Diagnosis
+Content Analysis
+Content-Based Image Retrieval
+Corner Detection
+Coupon Purchase Prediction
+Credit Analysis
+Credit Scoring
+Crime Analysis
+Crime Classification
+Crime Prediction
+Customer Satisfaction
+Cycle Detection
+Data Cleansing
+Data Pre-Processing
+Deception Detection
+Demand Forecasting
+Detection Of User Demographics
+Diabetes Classification
+Diabetic Retinopathy Detection
+Digit Recognizer
+Disease Progression Prediction
+Distracted Driver Detection
+Dna Microarray Analysis
+Document Classification
+Document Processing
+Documents Denoising
+Driver Drowsiness Detection
+Driver Telematics Analysis
+Drowning Detection
+Duplicate Detection
+Edge Detection
+Eeg Analysis
+Emotion Classification
+Emotion Detection
+Emotion Recognition
+Emotional State Classification
+Emotions Induction
+Energy Disaggregation
+Energy Forecasting
+Entity Matching
+Entity Name Classification
+Entity Name Identification
+Event Recommendation
+Existence Detection
+Eye Movements Identification
+Eye Movements Verification
+Face Detection
+Face Image Filtering
+Face Image Preprocessing
+Face Pattern Recognition
+Face Recognition
+Facial Affect Detection
+Facial Expression Detecting
+Facial Expression Recognition
+Facial Keypoints Detection
+Facial Recognition
+Fall Detection
+Fatigue Detection
+Fault Detection
+Fault Detection And Isolation
+Fault Isolation
+Faults Prediction
+Feature Extraction
+Feature Recognition
+Fingerprint Classification
+Fingerprint Recognition
+Flu Forecasting
+Forest Cover Type Prediction
+Fraud Detection
+Friend Memberships Prediction
+Friends Recommendation
+Funding Prediction
+Gait Recognition
+Galaxies Classification
+Gender Prediction
+Gender Recognition
+Gesture Recognition
+Gesture Recognizer
+Graph Based Pattern Recognition
+Graph Matching
+Grasp-And-Lift Eeg Detection
+Hand Gesture Recognition
+Hand Motion Detection
+Hand Recognition
+Handwriting Recognition
+Handwriting Stroke Recovery
+Handwritten Biometric Recognition
+Handwritten Character Recognition
+Heart Disease Diagnosis
+Hierarchical Text Classification
+Home Automation
+Home Value Prediction
+Hotel Recommendations
+Human Activity Recognition
+Human Feeling Recognition
+Human Gesture Recognition
+Human Hand Finger Gesture Recognition
+Human Motivation Detection
+Human Pattern Recognition
+Human Postures Recognition
+Image Classification
+Image Colour Analysis
+Image Motion Analysis
+Image Processing
+Image Recognition
+Image Retrieval
+Image Tagging
+Image-Based Video Recognition
+Imagery Analysis
+Images Denoising
+Information  Extraction
+Information Leak Detection
+Insults Detection
+Intelligent Character Recognition
+Intelligent Word Recognition
+Intent Prediction
+Intention Prediction
+Interactive Target Recognition
+Interest Point Detection
+Interval Recognition
+Intra-Species Recognition
+Intruder Detection
+Intrusion Detection
+Invasive Species Monitoring
+Ip Traffic Classification
+Ip Traffic Identification
+Ip Traffic Recognition
+Iris Recognition
+Job Recommendation
+Keystroke Biometrics
+Keystroke Dynamics
+Language Detection
+Language Identification
+Language Translation
+Leaf Classification
+Lie Detection
+Link Analysis
+Link Prediction
+Log Analysis
+Lung Cancer Detection
+Machine Translation
+Machine Vision
+Magnetic Ink Character Recognition
+Malfunction Prediction
+Malware Classification
+Malware Detection
+Market Analysis
+Market Basket Analysis
+Matched Molecular Pair Analysis
+Medical Diagnosis
+Medical Image Computing
+Medical Signal Processing
+Misuse Detection
+Molecular Activity Prediction
+Molecular Recognition
+Motion Detection
+Motion Recognition
+Movement Reconstruction
+Multi-Modal Gesture Recognition
+Multifacial Emotion Recognition
+Music Information Retrieval
+Music Recognition
+Music Recommendation
+Named-Entity Recognition
+Natural Language Processing
+Natural Language Recognition
+Network Behavior Anomaly Detection
+News Analytics
+News Classification
+News Recommendation
+Nlp
+Novelty Detection
+Object Classification
+Object Classifier
+Object Detection
+Ocr
+Oligonucleotide Array Sequence Analysis
+Online Character Recognition
+Online Content Analysis
+Optical Braille Recognition
+Optical Character Recognition
+Optical Mark Recognition
+Optical Music Recognition
+Outlier Detection
+Palmprint Recognition
+Parsing
+Part-Of-Speech Tagging
+Passenger Screening
+Pedestrian Detection
+Pedestrian Recognition
+Periocular Recognition
+Personality Prediction
+Personalization
+Personalized Medicine
+Personnel Identifications
+Phonetic Recognizers
+Photo Classification
+Photo Quality Prediction
+Physical Activity Classifications
+Physical Activity Monitoring
+Plagiarism Detection
+Poetry Analysis
+Pop Music Automation
+Portfolio Management
+Posture And Movement Reconstruction
+Power Disaggregation
+Predicting A Biological Response
+Prescription Volume Prediction
+Price Prediction
+Product Classification
+Product Recommendation
+Prognosis Prediction
+Property Inspection Prediction
+Proteindna Recognition
+Psychopathy Prediction
+Query Prediction
+Question Answering
+Radar Signal Processing
+Rating Prediction
+Rental Prices Prediction
+Revenue Prediction
+Reverse Engineering
+Ridge Detection
+Risk Prediction
+Rna Recognition Motif
+Road Marking Recognition
+Robo-Advisors
+Root Cause Analysis
+Salary Prediction
+Sales Forecasting
+Sales Prediction
+Satellite Image Analysis
+Satellite Image Classification
+Satellite Imagery Feature Detection
+Scene Text Recognition
+Schizophrenia Classification
+Sea Lion Population Count
+Search Relevance
+Seizure Detection
+Seizure Prediction
+Semantic Analysis
+Sensor Fusion
+Sentence Boundary Disambiguation
+Sentence Detection
+Sentiment Analysis
+Sequence Analysis
+Shape Recognition
+Sign Recognition
+Signal Analysis
+Signal Classification
+Signal Processing
+Signature Based Detection
+Signature Recognition
+Signature Verification
+Sketch Recognition
+Social Data Analysis
+Social Network Analysis
+Software Design Pattern Recognition
+Soil Property Prediction
+Sound Recognition
+Spam Detection
+Spam Filtering
+Spatial Analysis
+Speaker Recognition
+Speech Emotion Recognition
+Speech Processing
+Speech Recognition
+Speech Recognizer
+Speech Segmentation
+Speech Signal Classification
+Speech Synthesis
+Steganalysis
+Steganography Detection
+Step Detection
+Stock Prices Prediction
+Structural Classification
+Structural Pattern Recognition
+Structured Learning
+Structured Prediction
+Subvocal Recognition
+Survival Analysis
+Syntactic Pattern Recognition
+Syntax Analysis
+Target Recognition
+Term Recognition
+Terminology Extraction
+Text Analysis
+Text Categorization
+Text Classification
+Text Mining
+Text Recognition
+Texture Recognition
+Time Series Analysis
+Topological Data Analysis
+Trajectory Analysis
+Trajectory Prediction
+Trip Time Prediction
+Trip Type Classification
+Ultrasound Nerve Segmentation
+User Analysis
+User Authentication
+User Verification
+Value Prediction
+Video Content Analysis
+Video Copy Detection
+Video Motion Detection
+Video Recommendation
+Virus Prediction
+Visual Recognition
+Visually Salient Object Detection
+Voice Activity Detection
+Watermark Detection
+Website Categorization
+Website Classification
+Whale Detection
+Whale Recognition
+Word Imputation
+Word Recognition
+Word-Sense Disambiguation
+Writer Identification
+fault tolerance control
+NER
+Named entity recognition
+name entities
+relation extraction
+biomedical research
+news articles enrichment
+AutoML

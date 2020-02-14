@@ -1,0 +1,262 @@
+ALOPEX
+AdaBoost
+Adaptive algorithm
+ADT
+Almeida–Pineda recurrent backpropagation
+Alopex
+Alternating decision tree
+Ant colony optimization algorithms
+Artificial neural network
+Artisto
+associative neural network
+Attractor network
+Augmented Lagrangian method
+Autoencoder
+Autoregressive integrated moving average
+Ayasdi
+Backpropagation
+Bagging
+Bayesian optimization
+Bi-directional RNN
+Biologically inspired algorithms
+BIRCH
+BMA
+Boltzmann machine
+Boost
+Boosting
+Bootstrap aggregating
+Bootstrapping
+BP algorithm
+Branch-and-bound algorithm
+Brooks–Iyengar algorithm
+BrownBoost
+C4.5
+C4.5 algorithm
+Cascade-Correlation network
+Cascading classifiers
+Case-based reasoning
+Classifier chains
+Clustering algorithm
+CN2
+CN2 algorithm
+Cobweb
+Committee machine
+Compositional Pattern Producing Networks
+Conditional random field
+Contextual bandit algorithm
+Convolutional neural network
+Coordinate descent
+Correlation clustering
+Cortical Learning Algorithm
+Co-training
+Cross-entropy method
+Cultural algorithm
+Data stream clustering
+Data stream mining
+DBSCAN
+Decision stump
+Decision Tree Training Algorithm
+Deep belief network
+DPLL algorithm
+Dynamic neural networks
+Dynamic time warping
+Eager learning
+Echo state network
+Eclat algorithm
+EdgeRank
+Elastic net regularization
+ELKI
+Ensemble learning
+Evolutionary acquisition of neural topologies
+Evolutionary multimodal optimization
+Expectation–maximization algorithm
+Extension neural network
+Extreme learning machine
+FastICA
+Feedforward neural network
+Fellegi-Sunter algorithm
+Fisher kernel
+FNN
+Forward algorithm
+Forward–backward algorithm
+Frank–Wolfe algorithm
+Fuzzy clustering
+Generalized Hebbian Algorithm
+Generative topographic map
+Genetic algorithm
+Genetic Algorithm for Rule Set Production
+Genetic programming
+Genetic Scale RNN
+GloVe
+Gradient boosting
+Gradient descent
+Graphical lasso
+Growing self-organizing map
+Hidden Markov model
+Hidden semi-Markov model
+Hierarchical clustering
+Hierarchical temporal memory
+Higher-order singular value decomposition
+Holographic associative memory
+Hopfield network
+Hoshen–Kopelman algorithm
+Hyper basis function network
+HyperNEAT
+ID3
+Information Fuzzy Networks
+Instance-based learning
+Instantaneously trained neural networks
+J4.8
+JTA
+Junction tree algorithm
+K q-flats
+Kernel adaptive filter
+Kernel method
+Kernel perceptron
+Kernel principal component analysis
+Kernel random forest
+Kernel-independent component analysis
+K-means clustering
+K-means clustering algorithm
+K-means++
+K-nearest neighbors algorithm
+K-SVD
+Large margin nearest neighbor
+LASSO
+Lazy learning
+LDA algorithm
+Learning vector quantization
+Least squares support vector machine
+LIBSVM
+lightGBM
+Limited-memory BFGS
+Linde–Buzo–Gray algorithm
+Linear classifier
+Linear discriminant analysis
+LOBPCG
+Local outlier factor
+Local search
+Local search algorithm
+Logistic model tree
+LogitBoost
+Long short-term memory
+Low Rank Matrix Approximations
+LPBoost
+MapReduce
+Margin classifier
+Margin Infused Relaxed Algorithm
+Markov chain
+Markov chain Monte Carlo
+Markov decision process
+Markov logic network
+Markov model
+Mean-shift algorithm
+Memetic algorithm
+Memory-prediction framework
+Min-conflicts algorithm
+Minimum redundancy feature selection
+MM algorithm
+Modular neural network
+Monte Carlo tree search
+Moravec corner detection algorithm
+Multilayer perceptron
+Multinomial logistic regression
+Multiplicative Weight Update Method
+Naive Bayes
+Nearest centroid classifier
+Nearest neighbor
+Neighbourhood components analysis
+Neural backpropagation
+NeuroEvolution of Augmented Topologies
+Neuro-fuzzy network
+N-gram
+One-shot associative memory
+One-shot learning
+OPTICS algorithm
+Optimistic knowledge gradient
+Pachinko allocation
+PageRank
+Partial least squares regression
+Particle swarm optimization
+Perceptron algorithm
+Perceptron learning algorithm
+Personal rapid transit
+Physical neural network
+PNN
+Polynomial neural network
+Population-based incremental learning
+PPM
+Prefrontal cortex basal ganglia working memory
+Principal component analysis
+Probabilistic latent semantic analysis
+Probabilistic neural network
+Pruning
+PSIPRED
+Q-learning
+Quantum neural network
+Quickprop
+Radial basis function network
+Random forest
+Random graph
+Random projection
+Random subspace method
+Random walk
+Randomized weighted majority algorithm
+RankBrain
+Ranking SVM
+Rapidly-exploring random tree
+Recurrent neural network
+Recursive least squares algorithm
+Recursive partitioning
+Regularization by spectral filtering
+Regularized least squares
+Regulatory feedback network
+REINFORCE algorithm
+Rejection sampling
+Relief
+Restricted Boltzmann machine
+Reverse Monte Carlo
+Ridge Regression
+Rprop
+Rule-based machine learning
+Self-organizing map
+Simulated annealing
+Smoothed analysis
+Sparse dictionary learning
+Sparse PCA
+Spike-and-slab variable selection
+Spiking neural networks
+Stochastic chains with memory of variable length
+Stochastic neural network
+Structured kNN
+Structured sparsity regularization
+Structured support vector machine
+Sum-product algorithm
+Super-recursive algorithm
+Support vector machine
+SVD
+Svm
+Symbolic regression
+T-distributed stochastic neighbor embedding
+Tikhonov regularization
+Time delay neural network
+Truncated Newton method
+Unit-weighted regression
+Universal portfolio algorithm
+Variable-order Markov model
+Variational Bayesian methods
+Variational message passing
+Vector quantization
+Version space learning
+Wake-sleep algorithm
+Weighted Majority Algorithm
+Winnow
+Winnow learning
+Word2Vec
+Xgboost
+Support vector machines
+BERT
+LSTM
+CRF
+nearest neighbourhood
+Jaccard coefficient
